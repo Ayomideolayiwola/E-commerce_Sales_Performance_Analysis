@@ -2,7 +2,7 @@
 
 Project Overview: A comprehensive data analysis focused on unlocking sales trends and optimizing product distribution across key regional markets.
 
-The Problem Statement
+The Problem Statement:
 Despite having a diverse product catalog, the business lacked a centralized view of its performance metrics. Key stakeholders were unable to identify:
 
 -Which geographic regions were driving the most value?
