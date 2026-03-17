@@ -3,6 +3,7 @@
 Project Overview: A comprehensive data analysis focused on unlocking sales trends and optimizing product distribution across key regional markets.
 
 The Problem Statement:
+
 Despite having a diverse product catalog, the business lacked a centralized view of its performance metrics. Key stakeholders were unable to identify:
 
 -Which geographic regions were driving the most value?
@@ -10,7 +11,8 @@ Despite having a diverse product catalog, the business lacked a centralized view
 -Monthly seasonality patterns affecting inventory and logistics.
 -Without these insights, the company faced risks of inefficient marketing spend and stock imbalances.
 
-Methodology
+Methodology:
+
 To solve this, I implemented an end-to-end Business Intelligence workflow using Power BI:
 Data Transformation: Cleaned and structured the raw sales data (addressing missing values and formatting date/time fields).
 Data Modeling: Established relationships between product categories, city locations, and order dates.
@@ -18,7 +20,8 @@ DAX Calculations: Created measures for Total Revenue, Order Volume, and Average 
 Visualization: Developed an interactive dashboard focusing on spatial analysis (City maps), trend analysis (Line charts), and product rankings.
 
 
-Measurable Key Insights
+Measurable Key Insights:
+
 The analysis revealed a powerful story of Volume vs. Value:
 
 - Financial Health: The business generated a total revenue of 34.49M from a catalog of 19 unique products.
